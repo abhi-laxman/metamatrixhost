@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkAngularClient=self.webpackChunkAngularClient||[]).push([[3293,5674],{93293:(d,l,n)=>{n.d(l,{c:()=>u,g:()=>o});var u=typeof globalThis<"u"?globalThis:typeof window<"u"?window:typeof global<"u"?global:typeof self<"u"?self:{};function o(e){return e&&e.__esModule&&Object.prototype.hasOwnProperty.call(e,"default")?e.default:e}}}]);
